@@ -6,8 +6,8 @@ Deep learning for computer vision and images have shown incredible potential. Th
 
 OBJECTIVE:
 
-● Using a Gaussian blur and pixelated blur to anonymize faces in images,so as to help protect the identity of a person in an image.
-● Our user end application will also leverage the deep learning technology to get the high resolution images from the noisy,blurred or low-resolution images using tensorflow.In simple terms we will deblur your blurred images.
+  ● Using a Gaussian blur and pixelated blur to anonymize faces in images,so as to help protect the identity of a person in an image.
+  ● Our user end application will also leverage the deep learning technology to get the high resolution images from the noisy,blurred or low-resolution images using tensorflow.In simple terms we will deblur your blurred images.
 ● Using a lossless compression algorithm, either CALIC or JPEG-LS, for compressing the end result images.
 ● Develop a user end application to facilitate all the aforementioned functionalities.
 
